@@ -40,7 +40,7 @@
       <maven-clean-plugin.version>3.2.0</maven-clean-plugin.version>
       <maven-compiler-plugin.version>3.11.0</maven-compiler-plugin.version>
       <maven-deps-plugin.version>3.6.0</maven-deps-plugin.version>
-      <maven-assembly-plugin.version>3.6.0</maven-assembly-plugin.version>
+      <maven-assembly-plugin.version>3.7.1</maven-assembly-plugin.version>
       <quartz-scheduler.version>2.5.0</quartz-scheduler.version>
       <typesafe-config.version>1.4.3</typesafe-config.version>
       <openapi-generator-plugin.version>7.2.0</openapi-generator-plugin.version>
